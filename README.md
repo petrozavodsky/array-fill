@@ -1,0 +1,2 @@
+# array-fill
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8444fc965aa141f4a7da0afa9da69418)](https://app.codacy.com/gh/petrozavodsky/array-fill?utm_source=github.com&utm_medium=referral&utm_content=petrozavodsky/array-fill&utm_campaign=Badge_Grade_Settings)
