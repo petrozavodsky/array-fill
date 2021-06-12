@@ -5,6 +5,7 @@ import (
 	"time"
 )
 
+// Хелперы пакета
 type Helpers struct {
 	min int
 	max int
