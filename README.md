@@ -1,5 +1,4 @@
-# Coding Interview Challenge (Fill Array)
-
+# Coding Interview Challenge (Fill Array) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e733574e65df4212be7a9e980abe366e)](https://www.codacy.com/gh/petrozavodsky/array-fill/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=petrozavodsky/array-fill&amp;utm_campaign=Badge_Grade)
 ## Постановка задачи
 
 Необходимо реализовать логику, которая заполняет массив 5x5 случайными уникальными целыми числами в диапазоне 0-100.
