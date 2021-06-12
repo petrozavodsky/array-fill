@@ -10,6 +10,7 @@ type Helpers struct {
 	max int
 }
 
+// Метод перестановки массива
 func (h *Helpers) ShuffleArray(array []int) []int {
 
 	for i := 0; i < h.min+1; i++ {

@@ -1,5 +1,6 @@
 package main
 
+//Функция для создания многомерного массива
 func CreateMultiArray(ar []int) [rows][cols]int {
 
 	var resultArray [rows][cols]int
@@ -22,6 +23,7 @@ func CreateMultiArray(ar []int) [rows][cols]int {
 	return resultArray
 }
 
+// Функция для создания простого массива
 func CreateSimpleArray() [intervalMax + 1]int {
 	var array [intervalMax + 1]int
 
